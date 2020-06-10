@@ -1,0 +1,5 @@
+[Desktop Entry]
+Name=Franzl
+Comment=An Openbox-inspired Wayland compositor
+Exec=franzl
+Type=Application
