@@ -1,4 +1,4 @@
-# Franzl
+# Franzl (WIP)
 
 An openbox-inspired Wayland compositor.
 
